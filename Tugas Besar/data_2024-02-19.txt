@@ -1,0 +1,14 @@
+Nama: deka pratama
+Nomor WhatsApp: 089754632142
+Alamat: Desa Bongas Kulon
+Properti: Katering
+Durasi: 1 hari
+Total Biaya: 2,000,000 IDR
+
+Nama: ike
+Nomor WhatsApp: 9876
+Alamat: bongas
+Properti: Katering
+Durasi: 1 hari
+Total Biaya: 2,000,000 IDR
+

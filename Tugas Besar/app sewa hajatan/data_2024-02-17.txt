@@ -1,0 +1,28 @@
+Nama: cia
+Nomor WhatsApp: 123
+Alamat: mijaan
+Properti: Katering
+Durasi: 2 hari
+Total Biaya: 4,000,000 IDR
+
+Nama: cia
+Nomor WhatsApp: 123
+Alamat: mijaan
+Properti: Kursi Tamu
+Durasi: 2 hari
+Total Biaya: 2,000,000 IDR
+
+Nama: cia
+Nomor WhatsApp: 087822771682
+Alamat: Majalengka
+Properti: Kursi & Meja Akad
+Durasi: 2 hari
+Total Biaya: 1,000,000 IDR
+
+Nama: Jojo
+Nomor WhatsApp: 088769543124
+Alamat: Bongas Kulon
+Properti: Tenda
+Durasi: 1 hari
+Total Biaya: 4,000,000 IDR
+
